@@ -1,0 +1,11 @@
+<!DOCTYPE humber [
+    <!ELEMENT humber(web_programming)>
+    <!ELEMENT web_programming(course+)>
+    <!ELEMENT course(instructor, time)>
+    <!ELEMENT instructor(first, last)>
+    <!ELEMENT first(#PCDATA)>
+    <!ELEMENT last(#PCDATA)>
+    <!ELEMENT time(day, hour)>
+    <!ELEMENT day(#PCDATA)>
+    <!ELEMENT hour(#PCDATA)>
+]>

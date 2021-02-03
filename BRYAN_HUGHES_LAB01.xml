@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<humber>
+    <web_programming>
+        <course code="http_5201">
+            <name>Security and Quality Assurance</name>
+            <instructor>
+                <first>Sean</first>
+                <last>Doyle</last>
+            </instructor>
+            <time>
+                <day>Tuesday</day>
+                <hour>09:50</hour>
+            </time>
+        </course>
+        <course code="http_5202">
+            <name>Web Application Development 2</name>
+            <instructor>
+                <first>Nithya</first>
+                <last>T.</last>
+            </instructor>
+            <time>
+                <day>Wednesday</day>
+                <hour>09:50</hour>
+            </time>
+        </course>
+        <course code="http_5203">
+            <name>XML and Web Services</name>
+            <instructor>
+                <first>Joanna</first>
+                <last>Kommala</last>
+            </instructor>
+            <time>
+                <day>Thursday</day>
+                <hour>11:40</hour>
+            </time>
+        </course>
+        <course code="http_5204">
+            <name>Mobile Development</name>
+            <instructor>
+                <first>Christine</first>
+                <last>Bittle</last>
+            </instructor>
+            <time>
+                <day>Thursday</day>
+                <hour>14:25</hour>
+            </time>
+        </course>
+        <course code="http_5205">
+            <name>Professional Practice</name>
+            <instructor>
+                <first>First</first>
+                <last>Last</last>
+            </instructor>
+            <time>
+                <day>Monday</day>
+                <hour>13:00</hour>
+            </time>
+        </course>
+        <course code="http_5206">
+            <name>Web Information Architecture</name>
+            <instructor>
+                <first>Bernie</first>
+                <last>Monette</last>
+            </instructor>
+            <time>
+                <day>Tuesday</day>
+                <hour>08:55</hour>
+            </time>
+        </course>
+    </web_programming>
+</humber>
